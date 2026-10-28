@@ -1,0 +1,8 @@
+# Do not edit manually 
+*.html linguist-vendored
+*.min.js linguist-generated
+*.jpg binary
+*.ts linguist-detectable
+src/**/*.ts linguist-detectable
+*.json linguist-detectable=false
+public/* linguist-vendored
