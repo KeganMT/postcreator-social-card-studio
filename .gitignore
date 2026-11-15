@@ -1,0 +1,9 @@
+.env
+build/
+*.tgz
+.pnpm-store/
+node_modules/
+.next/
+dist/
+yarn-error.log*
+npm-debug.log*
